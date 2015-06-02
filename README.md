@@ -1,4 +1,4 @@
-Follow Focus Gears for Lomo Prime Lenses
+Follow Focus Gear - Foton 37-140 Zoom
 =============
 
 A follow focus gear designed to fit the barrel of the Foton 37-140mm zoom lens made by LOMO. Gear pitch is the standard 0.8mm.
