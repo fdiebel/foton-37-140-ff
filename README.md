@@ -1,5 +1,3 @@
-# foton-37-140-ff
-
 Follow Focus Gears for Lomo Prime Lenses
 =============
 
@@ -28,4 +26,3 @@ Floyd Diebel (fdiebel)
 License
 --------
 Creative Commons - Attribution - Share Alike license.  
-
